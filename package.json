@@ -1,7 +1,7 @@
 {
-  "name": "react-7tfwup",
+  "name": "reactjs-liveclock",
   "description": "",
-  "homepage": "https://stackblitz.com/edit/react-7tfwup",
+  "homepage": "https://stackblitz.com/edit/reactjs-liveclock",
   "dependencies": {
     "react": "16.1.1",
     "react-dom": "16.1.1",
