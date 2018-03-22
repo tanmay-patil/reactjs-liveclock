@@ -1,4 +1,5 @@
 # reactjs-liveclock
+<<<<<<< HEAD
 
 [Edit this project on StackBlitz](https://stackblitz.com/edit/reactjs-liveclock)
 
@@ -2140,3 +2141,6 @@ This will only work for locales that have been explicitly imported before.
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+React js project which displays a live clock using a single component.
+>>>>>>> 5ae4e509cc7f5b196baf280a7bc6c29eb41f2273
